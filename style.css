@@ -61,8 +61,8 @@ body{
 .box.cyan{
     position: absolute;
     border-top: 8px solid hsl(180, 62%, 55%);
-    top: 47.5%;
-    left: 10%;
+    top: 52.5%;
+    left: 15%;
 }
 
 .box.yellow{
@@ -74,6 +74,6 @@ body{
 .box.blue{
     position: absolute;
     border-top: 8px solid hsl(212, 86%, 64%);
-    top: 47.5%;
-    left: 62.5%;
+    top: 52.5%;
+    left: 70%;
 }
