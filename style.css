@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     background-color: hsl(0, 0%, 98%);
+    min-width: 1440px;
 }
 
 .main{
