@@ -11,7 +11,7 @@ body{
 
 .main h1{
     position: relative;
-    left: 35%;
+    left: 582.391px;
     font-size: 40px;
     line-height: 70%;
     width: fit-content;
@@ -20,7 +20,7 @@ body{
 .main p{
     margin-top: 10px;
     position: relative;
-    left: 30%;
+    left: 499.188px;
     width: fit-content;
     color: hsl(229, 6%, 66%);
     font-size: 18px;
@@ -55,26 +55,26 @@ body{
 
 .box.red{
     border-top: 8px solid hsl(0, 78%, 62%);
-    left: 36%;
+    left: 599.031px;
     margin-top: 75px;
 }
 
 .box.cyan{
     position: absolute;
     border-top: 8px solid hsl(180, 62%, 55%);
-    top: 52.5%;
-    left: 15%;
+    top: 430.813px;
+    left: 168px;
 }
 
 .box.yellow{
     border-top: 8px solid hsl(34, 97%, 64%);
-    left: 36%;
+    left: 599.031px;
     margin-top: 50px;
 }
 
 .box.blue{
     position: absolute;
     border-top: 8px solid hsl(212, 86%, 64%);
-    top: 52.5%;
-    left: 70%;
+    top: 430.813px;
+    left: 1050px;
 }
