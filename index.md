@@ -1,7 +1,7 @@
+
 <!DOCTYPE html>
 <html>
     <head>
-
         <link rel="stylesheet" href="style.css">
         <link href="https://fonts.googleapis.com/css?family=Poppins:200,400,600&display=swap" rel="stylesheet">
     </head>
@@ -11,25 +11,21 @@
             <h1 style="font-weight: 600;">Powered by Technology</h1>
             <p>Our Artifcial Intelligence powered tools use millions of projects data <br> &emsp;&emsp;&emsp;&emsp;&ensp; points to ensure that your project is successful</p>
         </div>
-
         <div class="box red">
             <h1>Team Builder</h1>
             <p>Scans our talent network to create the <br> optimal team for your project</p>
             <img src="../images/icon-team-builder.svg" alt="">
         </div>
-
         <div class="box cyan">
             <h1>Supervisor</h1>
             <p>Monitors activity to identify project <br> roadblocks</p>
             <img src="../images/icon-supervisor.svg" alt="">
         </div>
-
         <div class="box yellow">
             <h1>Karmas</h1>
             <p>Regularly evaluates our talent to ensure <br> quality</p>
             <img src="../images/icon-karma.svg" alt="">
         </div>
-
         <div class="box blue">
             <h1>Calculator</h1>
             <p>Uses data from pasrt projects to provide <br> better delivery estimates</p>
